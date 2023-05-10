@@ -4,4 +4,5 @@
 static/tailwind-dev.css
 node_modules
 templates/testing-files.html
-.space/meta
+.space
+.env

@@ -5,9 +5,10 @@ micros:
       src: .
       engine: python3.9
       primary: true
+      dev: python3 main.py
       public_routes:
         - "/file/*"
         - "/api/collection/*"
         - "/api/content/*"
         - "/api/collections"
-icon: berowra.png
+# icon: berowra.png
